@@ -52,20 +52,6 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 | Engagement & Participation - In-Class      | 8%     | N/A | In-Class: iClicker + Discussion |
 
 
-
-
-
-| Assessment       | Weight  | Due Date         | Location |
-|------------------|---------|------------------|----------|
-| Lab Assignment 1 | 14%     | Feb 17, 11:59pm| Submit to Github |
-| Lab Assignment 2 | 14%     |  Mar 2, 11:59pm| Submit to Github |
-| Quiz 1           | 20%     |  TBA | Online | 
-| Lab Assignment 3 | 14%     |  Mar 9, 11:59pm | Submit to Github |
-| Lab Assignment 4 | 14%     |  Mar 16, 11:59pm | Submit to Github |
-| Quiz 2           | 20%     | TBA | Online  |
-| Attendance       | 4%     | N/A | iClicker |
-
-
 ## Teaching Team
 
 | Position           | Name    | Slack Handle | GHE Handle |
