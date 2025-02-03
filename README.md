@@ -10,10 +10,13 @@ __Slack Channel__: cl-565_sentiment
 
 Upon completion of this course, students are expected to:
 
-1. Apply appropriate resources when carrying out lexicon-based polarity classification
-2. Identify challenges and potential solutions associated with identifying sentiment targets
-3. Carry out fine-grained sentiment analysis with large datasets using appropriate machine learning techniques 
-4. Track sentiment over time, space, and topic using social media datasets 
+1. Understand the Foundations of Sentiment Analysis
+2. Apply Classical and Deep Learning Methods for Sentiment Analysis
+3. Analyze Social Meaning and Data Labeling Challenges
+4. Apply Large Language Models (LLMs) for Sentiment Tasks
+5. Develop Real-World Sentiment Analysis Systems Using LLM Agents
+6. Critically Evaluate Societal Considerations in Sentiment Analysis
+7. Enhance Sentiment Analysis with Explaination and Retrieval-Augmented Models
 
 
 
@@ -27,14 +30,30 @@ Labs are Tuesday from 2-6 p.m., in ORCH 4018.
 
 ## Attendance
 
-The MDS-CL is an *in-person* program - you are expected to attend classes and labs.  Recordings will be provided, but are intended for review, only.  Interaction in class has been shown to improve understanding, and collaborative environments improve learning.
+The MDS-CL is an *in-person* program - you are expected to attend classes and labs.  There will be no recordings of lectures.  Interaction in class has been shown to improve understanding, and collaborative environments improve learning.
 
-Attendance will be taken with iClicker.  To receive full marks, you must attend 6 of 8 classes.  Attendance in fewer classes than these will result in a grade of 0 for attendance.  I understand that illness and emergencies happen (if you are ill, please do not come to class).  If the class average attendance is above 20 students, then everyone will receive full attendance marks.
+Attendance will be taken with iClicker.  To receive full marks, you must attend 6 of 8 classes.  Attendance in fewer classes than these will result in a grade of 0 for attendance.  I understand that illness and emergencies happen (if you are ill, please do not come to class). 
 
 
 ## Assessments
 
 This is an __assignment-based course__. You'll be evaluated as follows:
+
+| Assessment       | Weight  | Due Date         | Location |
+|------------------|---------|------------------|----------|
+| Lab Practice 1 | 6%     | Feb 17, 11:59pm| Submit to Github |
+| Lab Practice 2 | 6%     |  Mar 2, 11:59pm| Submit to Github |
+| Short Reflections   1   | 4%    |  Mar 6, 11:59pm| Submit to Github |
+| Project Milestone 1           | 30%     |  TBA (Mid-March) | Online | 
+| Lab Practice 3 | 6%     |  Mar 9, 11:59pm | Submit to Github |
+| Short Reflections   2   | 4%   |  Mar 12, 11:59pm | Submit to Github |
+| Lab Practice 4 | 7%     |  Mar 16, 11:59pm | Submit to Github |
+| Project Milestone 2           | 36%     | TBA (End of Term) | Online  |
+| Engagement & Participation - In-Class      | 8%     | N/A | In-Class: iClicker + Discussion |
+
+
+
+
 
 | Assessment       | Weight  | Due Date         | Location |
 |------------------|---------|------------------|----------|
@@ -51,7 +70,7 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 
 | Position           | Name    | Slack Handle | GHE Handle |
 | :----------------: | :-----: | :----------: | :--------: |
-| Main Instructor | Garrett Nicolai |    `@garrett nicolai`       | `@gnicolai`        |
+| Main Instructor | Muhammad Abdul-Mageed |    `@Muhammad Mageed`       | `@amuham01`        |
 | Lab Instructor | Jungyeul Park |    `@jungyeul`       | `@jungyeul` |
 | Teaching Assistant | Yadong Liu |    `@Yadong Liu`       | `@yadliu`        |
 
@@ -61,39 +80,14 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 
 | Lecture | Topic | Readings or Materials|
 |:-------:|-------|--------------|         
-| 1 | Course Intro.; Sentiment Analysis Task | xxxx  |
-| 2 | Methods: Classical Methods, BERT | xxxx  |
-
+| 1 | Course Intro., Sentiment Task | xxxx  |
+| 2 | Classical Methods, BERT | xxxx  |
 | 3 | Social Meaning (Emotion); Data Labeling | xxxx  |
-| 4 | Methods: LLMs, CoT, Prompting, Instruction Finetuning | xxxx  |
-
-| 5 | LLM Agents I, Sentiment Explanations | xxxx  |
-| 6 | LLM Agents II, Low-Resource SA | xxxx  |
-
-| 7 | RAG | xxxx  |
-
-
-| 2 | Classification with Polarity Lexicons| LMSA, 2.1-2.7 | 
-| 3 | Machine Learning for Sentiment Analysis | Jacovi et al 2017, Jiang et al. 2011 (section 4), Deng et al. 2014 (Sections 2 + 3)|
-| 4 | Emotion, Personality, and Author Profiling | J&M 21.1, J&M 21.7-21.8, EmoNet, Schwartz et al |
-| 5 | Relevance (Subjectivity, Targets, and Aspects) | StanfordSA, MPQA, GATE setup, SOAM 4.1, SAOM 5.1-5.3 | 
-| 6 | Challenges in Sentiment Analysis | SAOM 4.4, SAOM 3.6, SAOM 11, SOAM 12, SVM Rank, AMAS,Ghosh and Veale |                        
-| 7 | Tracking sentiment in space and time  |Cloroplaths, datetime|
-| 8 | Challenges for NLP in social media | Langid paper, ekphrasis |
-
-
-
-| Lecture | Topic | Readings or Materials|
-|:-------:|-------|--------------|         
-| 1 | Polarity Lexicons| J&M 21.2-21.6  |
-| 2 | Classification with Polarity Lexicons| LMSA, 2.1-2.7 | 
-| 3 | Machine Learning for Sentiment Analysis | Jacovi et al 2017, Jiang et al. 2011 (section 4), Deng et al. 2014 (Sections 2 + 3)|
-| 4 | Emotion, Personality, and Author Profiling | J&M 21.1, J&M 21.7-21.8, EmoNet, Schwartz et al |
-| 5 | Relevance (Subjectivity, Targets, and Aspects) | StanfordSA, MPQA, GATE setup, SOAM 4.1, SAOM 5.1-5.3 | 
-| 6 | Challenges in Sentiment Analysis | SAOM 4.4, SAOM 3.6, SAOM 11, SOAM 12, SVM Rank, AMAS,Ghosh and Veale |                        
-| 7 | Tracking sentiment in space and time  |Cloroplaths, datetime|
-| 8 | Challenges for NLP in social media | Langid paper, ekphrasis | 
-
+| 4 | LLMs, CoT, Prompting, Instruction Finetuning | xxxx  |
+| 5 | Real-World Sentiment: LLM Agents I | xxxx  |
+| 6 | Real-World Sentiment: LLM Agents II| xxxx  |
+| 7 | Real-World Sentiment: Sentiment Explanation, RAG | xxxx  |
+| 8 | Societal Considerations: Low-Resource and Multilingual, Bias, Energy |
 
 ## Resources
 
