@@ -25,8 +25,9 @@ Upon completion of this course, students are expected to:
 This is a live presentation class.  Students are expected to attend lectures when possible.  Recordings will be available, but should be used as a study tool
 instead of a primary method of learning the material.
 
-Classes meet Tuesday and Thursday at 9:00 a.m., in SCRF 208.
+Classes meet Tuesday and Thursday at 9:30 a.m. - 11:00 am, in MCLD 3018.
 Labs are Tuesday from 2-6 p.m., in ORCH 4018.
+ 
 
 ## Attendance
 
