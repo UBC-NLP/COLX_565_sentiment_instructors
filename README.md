@@ -26,8 +26,8 @@ Upon completion of this course, students are expected to:
 This is a live presentation class.  Students are expected to attend lectures when possible.  Recordings will be available, but should be used as a study tool
 instead of a primary method of learning the material.
 
-Classes meet Tuesday and Thursday at 9:30 a.m. - 11:00 am, in MCLD 3018.
-Labs are Tuesday from 2-6 p.m., in ORCH 4018.
+**Classes meet** Tuesday and Thursday at 9:30 a.m. - 11:00 am, in MCLD 3018.
+**Labs** are Tuesday from 2-6 p.m., in ORCH 4018.
  
 ---
 
@@ -66,6 +66,8 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 | Lab Instructor | Jungyeul Park |    `@jungyeul`       | `@jungyeul` |
 | Teaching Assistant | Yadong Liu |    `@Yadong Liu`       | `@yadliu`        |
 
+## Instructor Office Hours: 
+- Wednesdays at 1:00-2:00 or by appointment.  
 ---
 
 ## Lecture Details
