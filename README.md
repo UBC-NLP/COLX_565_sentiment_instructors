@@ -67,7 +67,7 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 | Teaching Assistant | Yadong Liu |    `@Yadong Liu`       | `@yadliu`        |
 
 ## Instructor Office Hours: 
-- Wednesdays at 1:00-2:00 or by appointment.  
+- Wednesdays at 1:00-2:00 (or by appointment) at TFS Office.  
 ---
 
 ## Lecture Details
