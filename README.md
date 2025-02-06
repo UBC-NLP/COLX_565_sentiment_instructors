@@ -40,17 +40,18 @@ Attendance will be taken with iClicker.  To receive full marks, you must attend 
 
 This is an __assignment-based course__. You'll be evaluated as follows:
 
-| Assessment       | Weight  | Due Date         | Location |
-|------------------|---------|------------------|----------|
-| Lab Practice 1 | 6%     | Feb 17, 11:59pm| Submit to Github |
-| Lab Practice 2 | 6%     |  Mar 2, 11:59pm| Submit to Github |
-| Short Reflections   1   | 4%    |  Mar 6, 11:59pm| Submit to Github |
-| Project Milestone 1           | 30%     |  TBA (Mid-March) | Online | 
-| Lab Practice 3 | 6%     |  Mar 9, 11:59pm | Submit to Github |
-| Short Reflections   2   | 4%   |  Mar 12, 11:59pm | Submit to Github |
-| Lab Practice 4 | 7%     |  Mar 16, 11:59pm | Submit to Github |
-| Project Milestone 2           | 36%     | TBA (End of Term) | Online  |
-| Engagement & Participation - In-Class      | 8%     | N/A | In-Class: iClicker + Discussion |
+# Course Assessment Structure
+
+| Assessment                             | Weight  | Due Date         | Submission Location |
+|----------------------------------------|---------|------------------|---------------------|
+| **Lab Practice 1**                     | 16%     | Feb 15, 11:59pm  | Submit to GitHub   |
+| **Lab Practice 2**                     | 16%     | Mar 1, 11:59pm   | Submit to GitHub   |
+| **Short Reflection 1**                  | 8%      | Mar 5, 11:59pm   | Submit to GitHub   |
+| **Lab Practice 3 + Project Milestone 1** | 22%     | Mar 8, 11:59pm   | Submit to GitHub   |
+| **Short Reflection 2**                  | 8%      | Mar 10, 11:59pm  | Submit to GitHub   |
+| **Lab Practice 4 + Project Milestone 2** | 22%     | Mar 15 | Submit to GitHub & Online |
+| **Engagement & Participation**          | 8%      | N/A              | In-Class: iClicker + Discussions |
+
 
 
 ## Teaching Team
@@ -68,14 +69,18 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 | Lecture | Topic | Readings or Materials|
 |:-------:|-------|--------------|         
 | 1 | Course Intro., Sentiment Task | xxxx  |
-| 2 | Classical Methods, BERT | xxxx  |
-| 3 | Social Meaning (Emotion); Data Labeling | xxxx  |
+| 2 | Classical Methods | xxxx  |
+| 3 | Social Meaning (Emotion); BERT | xxxx  |
 | 4 | LLMs, CoT, Prompting, Instruction Finetuning | xxxx  |
 | 5 | Real-World Sentiment: LLM Agents I | xxxx  |
 | 6 | Real-World Sentiment: LLM Agents II| xxxx  |
 | 7 | Real-World Sentiment: Sentiment Explanation, RAG | xxxx  |
 | 8 | Societal Considerations: Low-Resource and Multilingual, Bias, Energy |
 
+
+- Lab 1: Lexicon-Based Sentiment
+- Lab 2: MELD dataset, instead of CNN they do BERT finetunining and LLM prompting (which maybe even covered in the lecture).
+-  
 ## Resources
 
 
