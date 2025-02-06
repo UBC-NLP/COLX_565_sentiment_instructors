@@ -38,7 +38,7 @@ Attendance will be taken with iClicker.  To receive full marks, you must attend 
 
 ## Assessments
 
-This is an __assignment-based course__. You'll be evaluated as follows:
+This is both an __assignment- and project-based course__. You'll be evaluated as follows:
 
 # Course Assessment Structure
 
@@ -46,11 +46,11 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 |----------------------------------------|---------|------------------|---------------------|
 | **Lab Practice 1**                     | 16%     | Feb 15, 11:59pm  | Submit to GitHub   |
 | **Lab Practice 2**                     | 16%     | Mar 1, 11:59pm   | Submit to GitHub   |
-| **Short Reflection 1**                  | 8%      | Mar 5, 11:59pm   | Submit to GitHub   |
-| **Lab Practice 3 + Project Milestone 1** | 22%     | Mar 8, 11:59pm   | Submit to GitHub   |
-| **Short Reflection 2**                  | 8%      | Mar 10, 11:59pm  | Submit to GitHub   |
-| **Lab Practice 4 + Project Milestone 2** | 22%     | Mar 15 | Submit to GitHub & Online |
-| **Engagement & Participation**          | 8%      | N/A              | In-Class: iClicker + Discussions |
+| **Short Reflection 1**                  | 6%      | Mar 5, 11:59pm   | Submit to GitHub   |
+| **Lab Practice 3 + Project Milestone 1** | 24%     | Mar 8, 11:59pm   | Online   |
+| **Short Reflection 2**                  | 6%      | Mar 10, 11:59pm  | Submit to GitHub   |
+| **Lab Practice 4 + Project Milestone 2** | 24%     | Mar 15 | Online |
+| **Engagement & Participation**          | 8%      | Ongoing             | In-Class: iClicker + Discussions |
 
 
 
@@ -70,8 +70,8 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 |:-------:|-------|--------------|         
 | 1 | Course Intro., Sentiment Task | xxxx  |
 | 2 | Classical Methods | xxxx  |
-| 3 | Social Meaning (Emotion); BERT | xxxx  |
-| 4 | LLMs, CoT, Prompting, Instruction Finetuning | xxxx  |
+| 3 | Social Meaning (e.g., Emotion, toxic language) | xxxx  |
+| 4 | BERT, LLMs, CoT, Prompting, Instruction Finetuning | xxxx  |
 | 5 | Real-World Sentiment: LLM Agents I | xxxx  |
 | 6 | Real-World Sentiment: LLM Agents II| xxxx  |
 | 7 | Real-World Sentiment: Sentiment Explanation, RAG | xxxx  |
@@ -87,26 +87,27 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 1. [Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/) (J&M)
 2. [Lexicon-based methods for Sentiment Analysis](https://www.mitpressjournals.org/doi/pdfplus/10.1162/COLI_a_00049) (LMSA)
 3. [Sentiment Analysis and Opinion Mining](https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf) (SAOM)
-4. NLTK howtos for [WordNet](https://www.nltk.org/howto/wordnet.html) and [SentiWordNet](http://www.nltk.org/howto/logic.html).
-5. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/treebank.html) (StanfordSA)
-6. [MPQA corpus and associated documentation](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/) (MPQA)
-7. [GATE setup for MPQA](http://mpqa.cs.pitt.edu/annotation/set_up_gate/)
-8. [Understanding Convolutional Neural Networks for Text Classification (Jacovi et al 2017)](https://arxiv.org/pdf/1809.08037.pdf)
-8. [Target-dependent Twitter Sentiment Classification (Jiang et al. 2011)](https://www.aclweb.org/anthology/P11-1016.pdf)
-9. [Adaptive Recursive Neural Network
+4. [Modeling Arabic subjectivity and sentiment in lexical space](xyz)(ArabicSSA)
+5. [EmoNet (Abdul-Mageed and Ungar)](https://www.aclweb.org/anthology/P17-1067.pdf)(EmoNet)
+6. NLTK howtos for [WordNet](https://www.nltk.org/howto/wordnet.html) and [SentiWordNet](http://www.nltk.org/howto/logic.html).
+7. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/treebank.html) (StanfordSA)
+8. [MPQA corpus and associated documentation](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/) (MPQA)
+9. [GATE setup for MPQA](http://mpqa.cs.pitt.edu/annotation/set_up_gate/)
+10. [Understanding Convolutional Neural Networks for Text Classification (Jacovi et al 2017)](https://arxiv.org/pdf/1809.08037.pdf)
+11. [Target-dependent Twitter Sentiment Classification (Jiang et al. 2011)](https://www.aclweb.org/anthology/P11-1016.pdf)
+12. [Adaptive Recursive Neural Network
 for Target-dependent Twitter Sentiment Classification (Deng et al. 2014)](https://www.aclweb.org/anthology/P14-2009.pdf)
-10. [SVM Rank](http://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf)
-11. [Argument Mining: A Survey (AMAS)](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00364)
-12. [Magnets for Sarcasm (Ghosh and Veale)](https://www.aclweb.org/anthology/D17-1050.pdf)
-13. [EmoNet (Abdul-Mageed and Ungar)](https://www.aclweb.org/anthology/P17-1067.pdf)
-14. [Personality, Gender, and Age in the Language of Social Media (Schwartz et al)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791)
-15. [Computational Sociolinguistics](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00258)
-16. [The Risk of Racial Bias in Hate Speech Detection (Sap et al.)](https://www.aclweb.org/anthology/P19-1163.pdf)
-17. [Cloroplaths in Plotly](https://plot.ly/python/choropleth-maps/)
-18. [the datetime library](https://docs.python.org/3/library/datetime.html)
-19. [Langid paper](https://www.aclweb.org/anthology/P12-3005.pdf)
-20. [ekphrasis package](https://github.com/cbaziotis/ekphrasis)
-21. [Twitter POS tagger](http://www.cs.cmu.edu/~ark/TweetNLP/#pos)
+13. [SVM Rank](http://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf)
+14. [Argument Mining: A Survey (AMAS)](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00364)
+15. [Magnets for Sarcasm (Ghosh and Veale)](https://www.aclweb.org/anthology/D17-1050.pdf)
+16. [Personality, Gender, and Age in the Language of Social Media (Schwartz et al)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791)
+17. [Computational Sociolinguistics](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00258)
+18. [The Risk of Racial Bias in Hate Speech Detection (Sap et al.)](https://www.aclweb.org/anthology/P19-1163.pdf)
+19. [Cloroplaths in Plotly](https://plot.ly/python/choropleth-maps/)
+20. [the datetime library](https://docs.python.org/3/library/datetime.html)
+21. [Langid paper](https://www.aclweb.org/anthology/P12-3005.pdf)
+22. [ekphrasis package](https://github.com/cbaziotis/ekphrasis)
+23. [Twitter POS tagger](http://www.cs.cmu.edu/~ark/TweetNLP/#pos)
 
 ## Policies
 
