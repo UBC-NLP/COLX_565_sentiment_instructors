@@ -10,13 +10,12 @@ __Slack Channel__: cl-565_sentiment
 
 Upon completion of this course, students are expected to:
 
-1. Understand the Foundations of Sentiment Analysis
-2. Apply Classical and Deep Learning Methods for Sentiment Analysis
-3. Analyze Social Meaning and Data Labeling Challenges
-4. Apply Large Language Models (LLMs) for Sentiment Tasks
-5. Develop Real-World Sentiment Analysis Systems Using LLM Agents
-6. Critically Evaluate Societal Considerations in Sentiment Analysis
-7. Enhance Sentiment Analysis with Explaination and Retrieval-Augmented Models
+1. Understand the Foundations of Sociopragmatic Meaning with a focus on Sentiment Analysis
+2. Apply Classical Methods and Large Language Models (LLMs) for Sociopragmatics
+3. Develop Real-World Sociopragmatics Systems Using LLMs and Agentic Workflows
+4. Enhance Text Classification with Explaination and Retrieval-Augmented Models
+5. Critically Evaluate Societal Considerations in Text Classification
+
 
 
 
@@ -70,7 +69,7 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 |:-------:|-------|--------------|         
 | 1 | Course Intro., Sentiment Task | xxxx  |
 | 2 | Classical Methods | xxxx  |
-| 3 | Social Meaning (e.g., Emotion, toxic language) | xxxx  |
+| 3 | Social Meaning (e.g., emotion, toxic language) | xxxx  |
 | 4 | BERT, LLMs, CoT, Prompting, Instruction Finetuning | xxxx  |
 | 5 | Real-World Sentiment: LLM Agents I | xxxx  |
 | 6 | Real-World Sentiment: LLM Agents II| xxxx  |
