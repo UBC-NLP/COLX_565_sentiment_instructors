@@ -6,44 +6,17 @@ _Sentiment analysis_ in Natural Language Processing (NLP) and Computational Ling
 
 __Slack Channel__: cl-565_sentiment
 
-## Course Learning Outcomes  
+---
 
-Upon completing this course, students will achieve the following learning outcomes:  
+## Course Learning Outcomes
 
-### 1. _Become familiar with_ the foundations of sociopragmatic meaning with a focus on sentiment analysis  
-Students will develop an understanding of the relationship between **sociopragmatic meaning** and **sentiment analysis** in natural language processing. This includes:  
-- defining **sociopragmatics** and understanding its role in **sentiment and emotion analysis**.  
-- distinguishing between **sentiment, emotion, and opinion mining** in computational linguistics.  
-- identifying key **datasets and evaluation metrics** for sentiment analysis.  
-- recognizing how **culture, domain, and context** influence sentiment expression.  
+Upon completion of this course, students are expected to:
 
-### 2. _Apply_ classical methods and large language models (llms) for sociopragmatics  
-Students will gain hands-on experience with both **classical NLP approaches** and **large language models (LLMs)** for sentiment analysis. This includes:  
-- implementing **traditional machine learning classifiers** (e.g., Naïve Bayes, SVM, Logistic Regression) for sentiment tasks.  
-- utilizing **word embeddings** (e.g., Word2Vec, GloVe) and **contextual embeddings** (e.g., BERT, RoBERTa) for improved sentiment representation.  
-- fine-tuning **transformer-based LLMs** for **sentiment classification and sociopragmatic tasks**.  
-- comparing and evaluating **the effectiveness, biases, and limitations** of different NLP techniques in sentiment analysis.  
-
-### 3. _Design_ real-world sociopragmatics systems using llms and agentic workflows  
-Students will explore how **LLMs and AI agents** can be used to build **real-world sentiment analysis applications**. This includes:  
-- designing **LLM-powered systems** that process sentiment from real-world data sources (e.g., social media, customer reviews, financial news).  
-- utilizing **prompt engineering and Chain-of-Thought (CoT) reasoning** to enhance LLM-based sentiment predictions.  
-- developing **agentic workflows** where LLMs collaborate with external tools for sentiment classification.  
-- addressing **real-time processing challenges** such as **sentiment drift, domain adaptation, and multilingual variations**.  
-
-### 4. _Enhance_ text classification with explainability and retrieval-augmented models  
-Students will learn to improve sentiment analysis models using **explainability techniques** and **retrieval-augmented generation (RAG)**. This includes:  
-- implementing **explainability methods** (e.g., SHAP, LIME, attention visualization) to interpret sentiment predictions.  
-- applying **RAG-based models** to incorporate external knowledge in sentiment classification.  
-- exploring **hybrid sentiment analysis models** that combine **retrieval-based and generative AI**.  
-- evaluating how **interpretability and retrieval mechanisms** improve model trustworthiness and fairness.  
-
-### 5. _Critically evaluate_ societal considerations in text classification  
-Students will engage in critical discussions on the **ethical and societal implications** of sentiment analysis. This includes:  
-- identifying **bias and fairness issues** in sentiment analysis models and datasets.  
-- assessing the **impact of sentiment models in multilingual and low-resource settings**.  
-- discussing the **potential risks and misuse** of sentiment classification (e.g., misinformation, opinion manipulation).  
-- analyzing the **environmental impact of large-scale NLP models** and strategies for sustainable AI.  
+1. _Become familiar with_ the foundations of sociopragmatic meaning with a focus on sentiment analysis  
+2. _Apply_ classical methods and large language models (llms) for sociopragmatics  
+3. _Design and develop_ real-world sociopragmatics systems using llms and agentic workflows  
+4. _Enhance_ text classification with explaination and retrieval-augmented models  
+5. _Critically evaluate_ societal considerations in text classification  
 
 ---
 
@@ -56,6 +29,7 @@ instead of a primary method of learning the material.
 Classes meet Tuesday and Thursday at 9:30 a.m. - 11:00 am, in MCLD 3018.
 Labs are Tuesday from 2-6 p.m., in ORCH 4018.
  
+---
 
 ## Attendance
 
@@ -63,6 +37,7 @@ The MDS-CL is an *in-person* program - you are expected to attend classes and la
 
 Attendance will be taken with iClicker.  To receive full marks, you must attend 6 of 8 classes.  Attendance in fewer classes than these will result in a grade of 0 for attendance.  I understand that illness and emergencies happen (if you are ill, please do not come to class). 
 
+---
 
 ## Assessments
 
@@ -81,6 +56,7 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 | **Engagement & Participation**          | 8%      | Ongoing             | In-Class: iClicker + Discussions |
 
 
+---
 
 ## Teaching Team
 
@@ -90,6 +66,7 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 | Lab Instructor | Jungyeul Park |    `@jungyeul`       | `@jungyeul` |
 | Teaching Assistant | Yadong Liu |    `@Yadong Liu`       | `@yadliu`        |
 
+---
 
 ## Lecture Details
 
@@ -105,6 +82,7 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 | 7 | Real-World Sentiment: Sentiment Explanation, RAG | xxxx  |
 | 8 | Societal Considerations: Low-Resource and Multilingual, Bias, Energy |
 
+---
 
 ## Resources
 
@@ -134,7 +112,7 @@ for Target-dependent Twitter Sentiment Classification (Deng et al. 2014)](https:
 22. [ekphrasis package](https://github.com/cbaziotis/ekphrasis)
 23. [Twitter POS tagger](http://www.cs.cmu.edu/~ark/TweetNLP/#pos)
 
-
+---
 
 ## Policies
 
