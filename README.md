@@ -6,17 +6,46 @@ _Sentiment analysis_ in Natural Language Processing (NLP) and Computational Ling
 
 __Slack Channel__: cl-565_sentiment
 
-## Course Learning Outcomes
+## Course Learning Outcomes  
 
-Upon completion of this course, students are expected to:
+Upon completing this course, students will achieve the following learning outcomes:  
 
-1. Understand the Foundations of Sociopragmatic Meaning with a focus on Sentiment Analysis
-2. Apply Classical Methods and Large Language Models (LLMs) for Sociopragmatics
-3. Develop Real-World Sociopragmatics Systems Using LLMs and Agentic Workflows
-4. Enhance Text Classification with Explaination and Retrieval-Augmented Models
-5. Critically Evaluate Societal Considerations in Text Classification
+### 1. _Become familiar with_ the foundations of sociopragmatic meaning with a focus on sentiment analysis  
+Students will develop an understanding of the relationship between **sociopragmatic meaning** and **sentiment analysis** in natural language processing. This includes:  
+- defining **sociopragmatics** and understanding its role in **sentiment and emotion analysis**.  
+- distinguishing between **sentiment, emotion, and opinion mining** in computational linguistics.  
+- identifying key **datasets and evaluation metrics** for sentiment analysis.  
+- recognizing how **culture, domain, and context** influence sentiment expression.  
 
+### 2. _Apply_ classical methods and large language models (llms) for sociopragmatics  
+Students will gain hands-on experience with both **classical NLP approaches** and **large language models (LLMs)** for sentiment analysis. This includes:  
+- implementing **traditional machine learning classifiers** (e.g., Naïve Bayes, SVM, Logistic Regression) for sentiment tasks.  
+- utilizing **word embeddings** (e.g., Word2Vec, GloVe) and **contextual embeddings** (e.g., BERT, RoBERTa) for improved sentiment representation.  
+- fine-tuning **transformer-based LLMs** for **sentiment classification and sociopragmatic tasks**.  
+- comparing and evaluating **the effectiveness, biases, and limitations** of different NLP techniques in sentiment analysis.  
 
+### 3. _Design_ real-world sociopragmatics systems using llms and agentic workflows  
+Students will explore how **LLMs and AI agents** can be used to build **real-world sentiment analysis applications**. This includes:  
+- designing **LLM-powered systems** that process sentiment from real-world data sources (e.g., social media, customer reviews, financial news).  
+- utilizing **prompt engineering and Chain-of-Thought (CoT) reasoning** to enhance LLM-based sentiment predictions.  
+- developing **agentic workflows** where LLMs collaborate with external tools for sentiment classification.  
+- addressing **real-time processing challenges** such as **sentiment drift, domain adaptation, and multilingual variations**.  
+
+### 4. _Enhance_ text classification with explainability and retrieval-augmented models  
+Students will learn to improve sentiment analysis models using **explainability techniques** and **retrieval-augmented generation (RAG)**. This includes:  
+- implementing **explainability methods** (e.g., SHAP, LIME, attention visualization) to interpret sentiment predictions.  
+- applying **RAG-based models** to incorporate external knowledge in sentiment classification.  
+- exploring **hybrid sentiment analysis models** that combine **retrieval-based and generative AI**.  
+- evaluating how **interpretability and retrieval mechanisms** improve model trustworthiness and fairness.  
+
+### 5. _Critically evaluate_ societal considerations in text classification  
+Students will engage in critical discussions on the **ethical and societal implications** of sentiment analysis. This includes:  
+- identifying **bias and fairness issues** in sentiment analysis models and datasets.  
+- assessing the **impact of sentiment models in multilingual and low-resource settings**.  
+- discussing the **potential risks and misuse** of sentiment classification (e.g., misinformation, opinion manipulation).  
+- analyzing the **environmental impact of large-scale NLP models** and strategies for sustainable AI.  
+
+---
 
 
 ## Meeting times / locations
