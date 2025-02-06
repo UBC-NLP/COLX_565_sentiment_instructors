@@ -77,9 +77,6 @@ This is both an __assignment- and project-based course__. You'll be evaluated as
 | 8 | Societal Considerations: Low-Resource and Multilingual, Bias, Energy |
 
 
-- Lab 1: Lexicon-Based Sentiment
-- Lab 2: MELD dataset, instead of CNN they do BERT finetunining and LLM prompting (which maybe even covered in the lecture).
--  
 ## Resources
 
 
@@ -108,6 +105,10 @@ for Target-dependent Twitter Sentiment Classification (Deng et al. 2014)](https:
 22. [ekphrasis package](https://github.com/cbaziotis/ekphrasis)
 23. [Twitter POS tagger](http://www.cs.cmu.edu/~ark/TweetNLP/#pos)
 
+
+
 ## Policies
 
 Please see the general [MDS policies](https://ubc-mds.github.io/policies/).
+
+**Acknowledgements:** Many of the readings are from a previous course by Dr. Garret Nicolai. 
