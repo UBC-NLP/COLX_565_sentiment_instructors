@@ -2,7 +2,7 @@
 
 ## Course Description
 
-_Sentiment analysis_ in Natural Language Processing (NLP) and Computational Linguistics (CL) involves identifying and analyzing polarity—positive, negative, neutral, or mixed—within text. This course provides a structured introduction to sentiment analysis methods, covering mostly modern deep learning techniques (with brief reference to classical methods). It combines lectures with hands-on lab sessions to ensure a balance between theoretical understanding and practical implementation.
+_Sentiment analysis_ in Natural Language Processing (NLP) and Computational Linguistics (CL) involves identifying and analyzing polarity—positive, negative, neutral, or mixed—within text. This course provides a structured introduction to sentiment analysis methods, situating it within _social meaning_. The course covers mostly appplications of modern deep learning methods with a focus on large language models (LLMs),  combining lectures with hands-on lab sessions to ensure a balance between theoretical understanding and practical implementation.
 
 __Slack Channel__: cl-565_sentiment
 
