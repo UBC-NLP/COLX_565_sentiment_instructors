@@ -111,4 +111,4 @@ for Target-dependent Twitter Sentiment Classification (Deng et al. 2014)](https:
 
 Please see the general [MDS policies](https://ubc-mds.github.io/policies/).
 
-**Acknowledgements:** Many of the readings are from a previous course by Dr. Garret Nicolai. 
+**Acknowledgements:** Many of the readings are from a previous course by Dr. Garrett Nicolai. 
