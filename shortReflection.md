@@ -1,9 +1,9 @@
-# Short Reflections Assignment
+# Short Reflection Assignment
 
 ## Overview
-The **Short Reflections** assignment is designed to encourage students to critically engage with the course material, reflect on key concepts, and connect theoretical knowledge to practical applications. These reflections provide an opportunity for students to consolidate their learning from lectures, labs, and readings in a structured yet concise manner.
+The **Short Reflection** assignment is designed to encourage students to critically engage with the course material, reflect on key concepts, and connect theoretical knowledge to practical applications. These reflections provide an opportunity for students to consolidate their learning from lectures, labs, and readings in a structured yet concise manner.
 
-Each reflection should be **500-700 words** and must be submitted as a **Markdown (`.md`) file** or a **PDF document** via GitHub.
+Each reflection should be **500-700 words** and must be submitted as a **PDF document** via Canvas.
 
 ---
 
@@ -11,8 +11,8 @@ Each reflection should be **500-700 words** and must be submitted as a **Markdow
 For each short reflection, students should address the following:
 
 1. **Key Takeaways (2 points)**  
-   - Summarize the most important insights from the **last two lectures and labs**.  
-   - Explain how these concepts build on previous knowledge.  
+   - Summarize the most important insights from the **previous four lectures and two labs**.  
+   - Explain how these concepts build on previous knowledge (including outside this course, within the program itself).  
    - If applicable, reference specific readings that helped clarify concepts.  
 
 2. **Application & Examples (2 points)**  
@@ -42,17 +42,11 @@ For each short reflection, students should address the following:
 ---
 
 ## Submission Guidelines
-- **Format:** Markdown (`.md`) or PDF  
+- **Format:** PDF  
 - **Length:** 500-700 words  
 - **Due Dates:**  
-  - **Short Reflection 1:** March 6, 11:59pm  
-  - **Short Reflection 2:** March 12, 11:59pm  
-- **Submission:** Upload to GitHub in the assigned folder  
-
----
-
-## Example Prompt for Reflection
-*"Reflect on the concepts of sentiment analysis models covered in Lectures 2 and 3. Compare classical machine learning methods with transformer-based models like BERT. Provide a real-world application where sentiment analysis is crucial, and discuss any challenges or limitations these models might face in such a setting."*
+  - **Short Reflection:** March 5, 11:59pm  
+- **Submission:** Submit to Canvas  
 
 ---
 
