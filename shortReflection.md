@@ -10,21 +10,21 @@ Each reflection should be **500-700 words** and must be submitted as a **Markdow
 ## Assignment Instructions
 For each short reflection, students should address the following:
 
-1. **Key Takeaways (40%)**  
+1. **Key Takeaways (2 points)**  
    - Summarize the most important insights from the **last two lectures and labs**.  
    - Explain how these concepts build on previous knowledge.  
    - If applicable, reference specific readings that helped clarify concepts.  
 
-2. **Application & Examples (30%)**  
+2. **Application & Examples (2 points)**  
    - Provide at least **one real-world example** where the concepts from class apply.  
    - This can be an industry application, a research case study, or an example from a dataset or paper.  
    - Include any relevant **code snippets, screenshots, or outputs** if applicable.  
 
-3. **Personal Insights & Challenges (20%)**  
+3. **Personal Insights & Challenges (1 point)**  
    - Reflect on which concepts were **challenging or surprising** and why.  
    - Discuss how you overcame a difficulty (if any) or what you would need to fully understand the topic.  
 
-4. **Question for Further Discussion (10%)**  
+4. **Question for Further Discussion (1 point)**  
    - End your reflection with **one thoughtful question** related to the material.  
    - This can be about an unclear concept, an ethical consideration, or a possible future research direction.  
 
@@ -34,10 +34,10 @@ For each short reflection, students should address the following:
 
 | Criteria                      | Excellent (100%) | Satisfactory (80%) | Needs Improvement (60%) | Poor (40% or below) |
 |--------------------------------|------------------|--------------------|-------------------------|----------------------|
-| **Key Takeaways (40%)**        | Clearly summarizes key concepts with strong connections to previous material. Uses examples from readings. | Covers key concepts but lacks depth or connections to past material. | Some relevant points mentioned but missing clarity or connections to the readings. | Incomplete or unclear summary, missing key concepts. |
-| **Application & Examples (30%)** | Provides a strong real-world example with clear, relevant explanations. Uses supporting code or visuals. | Provides an example, but explanation is weak or lacks clarity. | Example is vague, incomplete, or lacks relevance to the material. | No example or an entirely off-topic response. |
-| **Personal Insights & Challenges (20%)** | Thoughtful self-reflection on difficulties and learning experience. Demonstrates deep engagement. | Identifies challenges but lacks deeper reflection or resolution. | Briefly mentions a challenge but lacks analysis. | No personal reflection or engagement with challenges. |
-| **Question for Further Discussion (10%)** | Thought-provoking question that reflects critical thinking and deeper engagement. | Relevant question, but lacks depth. | Question is unclear or not well thought out. | No question provided. |
+| **Key Takeaways (2 points)**        | Clearly summarizes key concepts with strong connections to previous material. Uses examples from readings. | Covers key concepts but lacks depth or connections to past material. | Some relevant points mentioned but missing clarity or connections to the readings. | Incomplete or unclear summary, missing key concepts. |
+| **Application & Examples (2 points)** | Provides a strong real-world example with clear, relevant explanations. Uses supporting code or visuals. | Provides an example, but explanation is weak or lacks clarity. | Example is vague, incomplete, or lacks relevance to the material. | No example or an entirely off-topic response. |
+| **Personal Insights & Challenges (1 points)** | Thoughtful self-reflection on difficulties and learning experience. Demonstrates deep engagement. | Identifies challenges but lacks deeper reflection or resolution. | Briefly mentions a challenge but lacks analysis. | No personal reflection or engagement with challenges. |
+| **Question for Further Discussion (1 points)** | Thought-provoking question that reflects critical thinking and deeper engagement. | Relevant question, but lacks depth. | Question is unclear or not well thought out. | No question provided. |
 
 ---
 
